@@ -44,7 +44,7 @@
 
 - **Infrastructure as Code**: Terraform, Ansible, Ansible Semaphore
 - **Scripting and development**: Bash, Python, Go
-- **Containerization**: Docker (Standalone & Swarm), Portainer, Nomad, Nexus Repository
+- **Containerization**: Docker (Standalone & Swarm), Portainer, Nomad, Podman, Nexus Repository
 - **CI/CD**: GitLab, GitHub, Bitbucket, Azure DevOps
 - **Monitoring and Logging**: Zabbix, Grafana + Prometheus and other metrics/logging tools, ELK, Datadog, Sentry, Icinga, New Relic
 - **Cloud Platforms**: AWS, Vultr
