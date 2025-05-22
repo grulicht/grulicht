@@ -5,7 +5,11 @@
 ### 🚀 About Me
 
 - 🔧 I'm freelance DevOps Engineer/Developer
-- 🛠️ Creator and main developer of [Terraform Provider for Portainer](https://github.com/portainer/terraform-provider-portainer) and [Terraform Provider for Pwpush](https://github.com/grulicht/terraform-provider-pwpush)
+- 🛠️ Creator and main developer of:
+  - [Terraform Provider for Portainer](https://github.com/portainer/terraform-provider-portainer)
+  - [Ansible role portainer_agent](https://github.com/grulicht/ansible-role-portainer-agent)
+  - [Terraform Provider for Pwpush](https://github.com/grulicht/terraform-provider-pwpush)
+
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-grulich-184646239/) | [Email](mailto:to.grulich@gmail.com)
 
 ---
