@@ -9,6 +9,7 @@
   - [Terraform Provider for Portainer](https://github.com/portainer/terraform-provider-portainer)
   - [Ansible role portainer_agent](https://github.com/grulicht/ansible-role-portainer-agent)
   - [Terraform Provider for Pwpush](https://github.com/grulicht/terraform-provider-pwpush)
+  - [Terraform Provider for Zabbix](https://github.com/DigitalSolutionsCZ/terraform-provider-zabbix)
 
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-grulich-184646239/) | [Email](mailto:to.grulich@gmail.com)
 
@@ -48,10 +49,10 @@
 
 - **Infrastructure as Code**: Terraform, Ansible, Ansible Semaphore
 - **Scripting and development**: Bash, Python, Go
-- **Containerization**: Docker (Standalone & Swarm), Portainer, Nomad, Podman, Nexus Repository
+- **Containerization**: Docker (Standalone & Swarm), Kubernetes, Portainer, Nomad, Podman, Nexus Repository
 - **CI/CD**: GitLab, GitHub, Bitbucket, Azure DevOps
-- **Monitoring and Logging**: Zabbix, Grafana + Prometheus and other metrics/logging tools, ELK, Datadog, Sentry, Icinga, New Relic
-- **Cloud Platforms**: AWS, Vultr
+- **Monitoring and Logging**: Zabbix, Grafana + Mimir and other metrics/logging tools, ELK, Datadog, Sentry, Icinga, New Relic
+- **Cloud Platforms**: AWS, Vultr, Azure, Hetzner
 - **Security & Compliance**: Greenbone OpenVAS, SonarQube, Trivy
 - **Databases + Web servers**
 - **Server Administration**
