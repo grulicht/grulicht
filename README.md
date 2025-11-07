@@ -7,6 +7,7 @@
 - 🔧 I'm freelance DevOps Engineer/Developer
 - 🛠️ Creator and main developer of:
   - [Terraform Provider for Portainer](https://github.com/portainer/terraform-provider-portainer)
+  - [Terraform Provider for Wazuh](https://github.com/grulicht/terraform-provider-wazuh)
   - [Ansible role portainer_agent](https://github.com/grulicht/ansible-role-portainer-agent)
   - [Terraform Provider for Pwpush](https://github.com/grulicht/terraform-provider-pwpush)
   - [Terraform Provider for Zabbix](https://github.com/DigitalSolutionsCZ/terraform-provider-zabbix)
