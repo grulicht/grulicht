@@ -2,9 +2,9 @@
 
 ---
 
-### 🚀 About Me
+### About Me 🚀
 
-- 🔧 I'm freelance DevOps Engineer/Developer
+- I'm freelance **DevOps Engineer and Developer** 🔧
 - 🛠️ Creator and main developer of:
   - [Terraform Provider for Portainer](https://github.com/portainer/terraform-provider-portainer)
   - [Terraform Provider for Wazuh](https://github.com/grulicht/terraform-provider-wazuh)
@@ -12,7 +12,13 @@
   - [Terraform Provider for Pwpush](https://github.com/grulicht/terraform-provider-pwpush)
   - [Terraform Provider for Zabbix](https://github.com/DigitalSolutionsCZ/terraform-provider-zabbix)
 
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-grulich-184646239/) | [Email](mailto:to.grulich@gmail.com)
+### [Sponsor](https://github.com/sponsors/grulicht) 💖
+
+If you appreciate my work, consider [sponsoring me](https://github.com/sponsors/grulicht). Thank you. 🙌
+
+### Contacts 📮
+- [LinkedIn](https://www.linkedin.com/in/tom%C3%A1%C5%A1-grulich-184646239/)
+- [Email](mailto:to.grulich@gmail.com)
 
 ---
 
